@@ -1,0 +1,83 @@
+body
+{
+  background-color: rgb(113, 73, 151);
+  color: antiquewhite;
+  text-align: center;
+}
+
+.heading
+{
+    background-color: rgb(235, 47, 88);
+    width: fit-content;
+    padding: 6px;
+    border-radius: 5px;
+    border-color: rgb(238, 233, 233);
+    border-width: 1px;
+    border-style:dotted;
+    letter-spacing: 1;
+    font-family: 'Neonderthaw';
+    font-size: 32px;
+}
+
+.icons
+{
+    font-size: 22px;
+}
+
+#note
+{
+    font-size: 16px;
+}
+
+#information
+{
+    font-size: 20px;
+}
+
+#camera , #result
+{
+  border: 2px dashed white;
+  width: 220px;
+  height: 200px; 
+}
+#result_emotion_name   
+{
+  color: white;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size: 50px;
+}
+
+.heading
+{
+  letter-spacing: 5px;
+  font-size: 30px;
+  color: white;
+}
+
+label
+{
+  color: green;
+  font-size: 10px;
+  background-color: white;
+  border-radius: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+#snapshot
+{
+  font-size: 13px;
+}
+
+#prediction
+{
+  font-size: 13px;
+}
